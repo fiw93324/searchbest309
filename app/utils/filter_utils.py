@@ -17,9 +17,13 @@ BLACKLIST = [
 ]
 
 SITE_ALTS = {
+    
     'twitter.com': 'nitter.net',
-    'youtube.com': 'invidious.snopyta.org',
-    'instagram.com': 'bibliogram.art/u'
+    'youtube.com': 'invidious.kavin.rocks',
+    'instagram.com': 'bibliogram.art/u',
+    'reddit.com':'teddit.net',
+    'maps.google.com':'maps.qwant.com'
+
 }
 
 
